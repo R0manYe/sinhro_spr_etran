@@ -1,0 +1,1 @@
+<getNSI><tableName value="FREIGHT"/><filterField value="FR_id,fr_id"/><filterCond value='&gt;=,&lt;='/><filterValue value='4601,4800'/></getNSI>

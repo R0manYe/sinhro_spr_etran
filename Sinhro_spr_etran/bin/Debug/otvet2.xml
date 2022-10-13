@@ -1,0 +1,571 @@
+<getNSIReply>
+  <tableName value="SUM_FREIGHT" />
+  <row>
+    <TRANS_ID value="51281" />
+    <STAT_MIN value="54" />
+    <STAT_MAX value="68" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="1" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="КАМЕННЫЙ УГОЛЬ" />
+    <GG_CHAR_NAME value="Б" />
+  </row>
+  <row>
+    <TRANS_ID value="51282" />
+    <STAT_MIN value="38" />
+    <STAT_MAX value="65" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="2" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="КОКС" />
+    <GG_CHAR_NAME value="Г" />
+  </row>
+  <row>
+    <TRANS_ID value="51283" />
+    <STAT_MIN value="44" />
+    <STAT_MAX value="65" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="3" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="НЕФТЬ И НЕФТЕПРОДУКТЫ" />
+    <GG_CHAR_NAME value="Е" />
+  </row>
+  <row>
+    <TRANS_ID value="51284" />
+    <STAT_MIN value="36" />
+    <STAT_MAX value="56" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="4" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ТОРФ И ТОРФЯНАЯ ПРОДУКЦИЯ" />
+    <GG_CHAR_NAME value="О" />
+  </row>
+  <row>
+    <TRANS_ID value="51285" />
+    <STAT_MIN value="45" />
+    <STAT_MAX value="66" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="5" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="СЛАНЦЫ ГОРЮЧИЕ" />
+    <GG_CHAR_NAME value="С" />
+  </row>
+  <row>
+    <TRANS_ID value="51286" />
+    <STAT_MIN value="53" />
+    <STAT_MAX value="68" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="6" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ФЛЮСЫ" />
+    <GG_CHAR_NAME value="Ф" />
+  </row>
+  <row>
+    <TRANS_ID value="51287" />
+    <STAT_MIN value="39" />
+    <STAT_MAX value="75" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="7" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="РУДА ЖЕЛЕЗНАЯ И МАРГАНЦЕВАЯ" />
+    <GG_CHAR_NAME value="Ц" />
+  </row>
+  <row>
+    <TRANS_ID value="51288" />
+    <STAT_MIN value="52" />
+    <STAT_MAX value="70" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="8" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="РУДА ЦВЕТНАЯ И СЕРНОЕ СЫРЬЕ" />
+    <GG_CHAR_NAME value="Ш" />
+  </row>
+  <row>
+    <TRANS_ID value="51289" />
+    <STAT_MIN value="39" />
+    <STAT_MAX value="67" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="9" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ЧЕРНЫЕ МЕТАЛЛЫ" />
+    <GG_CHAR_NAME value="АА" />
+  </row>
+  <row>
+    <TRANS_ID value="51290" />
+    <STAT_MIN value="12" />
+    <STAT_MAX value="28" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="10" />
+    <GG_NEED_WEIGHT value="0" />
+    <GG_NAME value="МАШИНЫ И ОБОРУДОВАНИЕ" />
+    <GG_CHAR_NAME value="МО" />
+  </row>
+  <row>
+    <TRANS_ID value="51291" />
+    <STAT_MIN value="17" />
+    <STAT_MAX value="35" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="11" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="МЕТАЛЛИЧЕСКИЕ КОНСТРУКЦИИ" />
+    <GG_CHAR_NAME value="МК" />
+  </row>
+  <row>
+    <TRANS_ID value="51292" />
+    <STAT_MIN value="16" />
+    <STAT_MAX value="40" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="12" />
+    <GG_NEED_WEIGHT value="0" />
+    <GG_NAME value="МЕТИЗЫ" />
+    <GG_CHAR_NAME value="АВ" />
+  </row>
+  <row>
+    <TRANS_ID value="51293" />
+    <STAT_MIN value="43" />
+    <STAT_MAX value="55" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="13" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ЛОМ ЧЕРНЫХ МЕТАЛЛОВ" />
+    <GG_CHAR_NAME value="АГ" />
+  </row>
+  <row>
+    <TRANS_ID value="51294" />
+    <STAT_MIN value="13" />
+    <STAT_MAX value="41" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="14" />
+    <GG_NEED_WEIGHT value="0" />
+    <GG_NAME value="СЕЛЬСКОХОЗЯЙСТВЕННЫЕ МАШИНЫ" />
+    <GG_CHAR_NAME value="АЗ" />
+  </row>
+  <row>
+    <TRANS_ID value="51295" />
+    <STAT_MIN value="4" />
+    <STAT_MAX value="17" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="15" />
+    <GG_NEED_WEIGHT value="0" />
+    <GG_NAME value="АВТОМОБИЛИ" />
+    <GG_CHAR_NAME value="АК" />
+  </row>
+  <row>
+    <TRANS_ID value="51296" />
+    <STAT_MIN value="26" />
+    <STAT_MAX value="65" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="16" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ЦВЕТНЫЕ МЕТАЛЛЫ ИЗДЕЛИЯ ИЗ НИХ И ЛОМ ЦВ.МЕТАЛЛОВ" />
+    <GG_CHAR_NAME value="АЛ" />
+  </row>
+  <row>
+    <TRANS_ID value="51297" />
+    <STAT_MIN value="56" />
+    <STAT_MAX value="66" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="17" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ХИМИЧЕСКИЕ И МИНЕРАЛЬНЫЕ УДОБРЕНИЯ" />
+    <GG_CHAR_NAME value="АМ" />
+  </row>
+  <row>
+    <TRANS_ID value="51298" />
+    <STAT_MIN value="39" />
+    <STAT_MAX value="64" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="18" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ХИМИКАТЫ И СОДА" />
+    <GG_CHAR_NAME value="АО" />
+  </row>
+  <row>
+    <TRANS_ID value="51299" />
+    <STAT_MIN value="38" />
+    <STAT_MAX value="64" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="19" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="СТРОИТЕЛЬНЫЕ ГРУЗЫ" />
+    <GG_CHAR_NAME value="АЦ" />
+  </row>
+  <row>
+    <TRANS_ID value="51300" />
+    <STAT_MIN value="41" />
+    <STAT_MAX value="67" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="20" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ПРОМЫШЛЕННОЕ СЫРЬЕ И ФОРМОВОЧНЫЕ МАТЕРИАЛЫ" />
+    <GG_CHAR_NAME value="АФ" />
+  </row>
+  <row>
+    <TRANS_ID value="51301" />
+    <STAT_MIN value="32" />
+    <STAT_MAX value="68" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="21" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ШЛАКИ ГРАНУЛИРОВАННЫЕ" />
+    <GG_CHAR_NAME value="АУ" />
+  </row>
+  <row>
+    <TRANS_ID value="51302" />
+    <STAT_MIN value="37" />
+    <STAT_MAX value="67" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="22" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ОГНЕУПОРЫ" />
+    <GG_CHAR_NAME value="АС" />
+  </row>
+  <row>
+    <TRANS_ID value="51303" />
+    <STAT_MIN value="57" />
+    <STAT_MAX value="69" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="23" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ЦЕМЕНТ" />
+    <GG_CHAR_NAME value="АШ" />
+  </row>
+  <row>
+    <TRANS_ID value="51304" />
+    <STAT_MIN value="29" />
+    <STAT_MAX value="54" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="24" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ЛЕСНЫЕ ГРУЗЫ" />
+    <GG_CHAR_NAME value="ББ" />
+  </row>
+  <row>
+    <TRANS_ID value="51305" />
+    <STAT_MIN value="61" />
+    <STAT_MAX value="66" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="25" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="САХАР" />
+    <GG_CHAR_NAME value="БК" />
+  </row>
+  <row>
+    <TRANS_ID value="51306" />
+    <STAT_MIN value="25" />
+    <STAT_MAX value="46" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="26" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="МЯСО И МАСЛО ЖИВОТНОЕ" />
+    <GG_CHAR_NAME value="БО" />
+  </row>
+  <row>
+    <TRANS_ID value="51307" />
+    <STAT_MIN value="40" />
+    <STAT_MAX value="60" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="27" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="РЫБА" />
+    <GG_CHAR_NAME value="БР" />
+  </row>
+  <row>
+    <TRANS_ID value="51308" />
+    <STAT_MIN value="27" />
+    <STAT_MAX value="46" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="28" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="КАРТОФЕЛЬ ОВОЩИ И ФРУКТЫ" />
+    <GG_CHAR_NAME value="ВБ" />
+  </row>
+  <row>
+    <TRANS_ID value="51309" />
+    <STAT_MIN value="50" />
+    <STAT_MAX value="69" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="29" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="СОЛЬ ПОВАРЕННАЯ" />
+    <GG_CHAR_NAME value="ВГ" />
+  </row>
+  <row>
+    <TRANS_ID value="51310" />
+    <STAT_MIN value="30" />
+    <STAT_MAX value="57" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="30" />
+    <GG_NEED_WEIGHT value="0" />
+    <GG_NAME value="ОСТАЛЬНЫЕ ПРОДОВОЛЬСТВЕННЫЕ ТОВАРЫ" />
+    <GG_CHAR_NAME value="ВЕ" />
+  </row>
+  <row>
+    <TRANS_ID value="51311" />
+    <STAT_MIN value="18" />
+    <STAT_MAX value="41" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="31" />
+    <GG_NEED_WEIGHT value="0" />
+    <GG_NAME value="ПРОМЫШЛЕННЫЕ ТОВАРЫ НАРОДНОГО ПОТРЕБЛЕНИЯ" />
+    <GG_CHAR_NAME value="ВР" />
+  </row>
+  <row>
+    <TRANS_ID value="51312" />
+    <STAT_MIN value="39" />
+    <STAT_MAX value="44" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="32" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ХЛОПОК" />
+    <GG_CHAR_NAME value="ГА" />
+  </row>
+  <row>
+    <TRANS_ID value="51313" />
+    <STAT_MIN value="47" />
+    <STAT_MAX value="56" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="33" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="САХАРНАЯ СВЕКЛА И СЕМЕНА" />
+    <GG_CHAR_NAME value="ГД" />
+  </row>
+  <row>
+    <TRANS_ID value="51314" />
+    <STAT_MIN value="56" />
+    <STAT_MAX value="67" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="34" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ЗЕРНО" />
+    <GG_CHAR_NAME value="ГЕ" />
+  </row>
+  <row>
+    <TRANS_ID value="51315" />
+    <STAT_MIN value="44" />
+    <STAT_MAX value="63" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="35" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ПРОДУКТЫ ПЕРЕМОЛА" />
+    <GG_CHAR_NAME value="ГЗ" />
+  </row>
+  <row>
+    <TRANS_ID value="51316" />
+    <STAT_MIN value="45" />
+    <STAT_MAX value="58" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="36" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="КОМБИКОРМА" />
+    <GG_CHAR_NAME value="ГО" />
+  </row>
+  <row>
+    <TRANS_ID value="51317" />
+    <STAT_MIN value="5" />
+    <STAT_MAX value="40" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="37" />
+    <GG_NEED_WEIGHT value="0" />
+    <GG_NAME value="ЖИВНОСТЬ" />
+    <GG_CHAR_NAME value="ГП" />
+  </row>
+  <row>
+    <TRANS_ID value="51318" />
+    <STAT_MIN value="35" />
+    <STAT_MAX value="60" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="38" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ЖМЫХИ" />
+    <GG_CHAR_NAME value="ЖМ" />
+  </row>
+  <row>
+    <TRANS_ID value="51319" />
+    <STAT_MIN value="15" />
+    <STAT_MAX value="53" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="39" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="БУМАГА" />
+    <GG_CHAR_NAME value="ГС" />
+  </row>
+  <row>
+    <TRANS_ID value="51320" />
+    <STAT_MIN value="11" />
+    <STAT_MAX value="66" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="1" />
+    <GG_NUMBER value="40" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ПЕРЕВАЛКА ГРУЗОВ С ВОДНОГО НА Ж.Д. ТРАНСПОРТ" />
+    <GG_CHAR_NAME value="ГХ" />
+  </row>
+  <row>
+    <TRANS_ID value="51321" />
+    <STAT_MIN value="7" />
+    <STAT_MAX value="66" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="1" />
+    <GG_NUMBER value="41" />
+    <GG_NEED_WEIGHT value="1" />
+    <GG_NAME value="ИМПОРТНЫЕ ГРУЗЫ" />
+    <GG_CHAR_NAME value="ГФ" />
+  </row>
+  <row>
+    <TRANS_ID value="51322" />
+    <STAT_MIN value="15" />
+    <STAT_MAX value="28" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="1" />
+    <GG_NUMBER value="42" />
+    <GG_NEED_WEIGHT value="0" />
+    <GG_NAME value="ГРУЗЫ В КОНТЕЙНЕРАХ" />
+    <GG_CHAR_NAME value="ГЯ" />
+  </row>
+  <row>
+    <TRANS_ID value="51323" />
+    <STAT_MIN value="8" />
+    <STAT_MAX value="22" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_TYPE value="0" />
+    <GG_NUMBER value="43" />
+    <GG_NEED_WEIGHT value="0" />
+    <GG_NAME value="ОСТАЛЬНЫЕ И СБОРНЫЕ ГРУЗЫ" />
+    <GG_CHAR_NAME value="ГЮ" />
+  </row>
+  <row>
+    <TRANS_ID value="51324" />
+    <RECDATENEW value="31.07.2001 15:16:05" />
+    <RECDATEEND value="01.01.3000 00:00:00" />
+    <RECDATEBEGIN value="01.01.1900 00:00:00" />
+    <GG_NUMBER value="0" />
+    <GG_NAME value="---" />
+    <GG_CHAR_NAME value="-" />
+  </row>
+</getNSIReply>

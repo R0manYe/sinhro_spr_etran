@@ -1,0 +1,9 @@
+C:\Razrab\Sinhro_spr_etran\Sinhro_spr_etran\bin\Debug\Sinhro_spr_etran.exe.config
+C:\Razrab\Sinhro_spr_etran\Sinhro_spr_etran\obj\Debug\Sinhro_spr_etran.csproj.CoreCompileInputs.cache
+C:\Razrab\Sinhro_spr_etran\Sinhro_spr_etran\bin\Debug\Sinhro_spr_etran.exe
+C:\Razrab\Sinhro_spr_etran\Sinhro_spr_etran\bin\Debug\Sinhro_spr_etran.pdb
+C:\Razrab\Sinhro_spr_etran\Sinhro_spr_etran\obj\Debug\Sinhro_spr_etran.exe
+C:\Razrab\Sinhro_spr_etran\Sinhro_spr_etran\obj\Debug\Sinhro_spr_etran.pdb
+C:\Razrab\Sinhro_spr_etran\Sinhro_spr_etran\bin\Debug\Oracle.DataAccess.dll
+C:\Razrab\Sinhro_spr_etran\Sinhro_spr_etran\obj\Debug\Sinhro_spr_etran.csproj.CopyComplete
+C:\Razrab\Sinhro_spr_etran\Sinhro_spr_etran\obj\Debug\Sinhro_spr_etran.csprojAssemblyReference.cache

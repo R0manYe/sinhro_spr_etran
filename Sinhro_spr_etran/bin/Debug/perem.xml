@@ -1,0 +1,1 @@
+perem=<getNSI><tableName value="FREIGHT"/><filterField value="FR_id,fr_id"/><filterCond value='&gt;=,&lt;='/><filterValue value='1,200'/></getNSI>
